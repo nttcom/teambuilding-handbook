@@ -28,4 +28,4 @@ NTT Communications Corporation 作『チームビルディング ハンドブッ
 
 こちらから本編に進めます。
 
-{{< button relref="/docs/about" >}}はじめに{{< /button >}}
+{{< button relref="/docs/about.md" >}}はじめに{{< /button >}}
