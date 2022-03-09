@@ -1,5 +1,5 @@
 ---
-title: "配属前に実施"
+title: "test"
 description: "オンボーディングにおいて新メンバーを受け入れる前にチームで実施することをまとめています。"
 weight: 10
 draft: false
