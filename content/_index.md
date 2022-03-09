@@ -22,7 +22,7 @@ NTT Communications Corporation 作『オンボーディング ハンドブック
 
 ## 関連ハンドブック
 
-リモートワークの働き方に特化したハンドブックとして、[リモートワークハンドブック](https://nttcom.github.io/remote-work-handbook/)も参照ください。
+リモートワークの働き方に特化したハンドブックとして、[リモートワークハンドブック](https://nttcom.github.io/remote-work-handbook/)やオンボーディングに関する情報をまとめた『オンボーディングハンドブック』（ｘｘ）も参照ください。
 
 ## 読み始める
 
