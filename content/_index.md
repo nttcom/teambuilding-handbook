@@ -10,15 +10,15 @@ lastmod: 2020-11-09T14:03:00+09:00
 
 ## このサイトについて
 
-NTTコミュニケーションズ(以降、NTT Com)社内で製作したオンボーディングハンドブックの内容を、より一般化して広く公開するものです。
+NTTコミュニケーションズ(以降、NTT Com)社内で製作したチームビルディングハンドブックの内容を、より一般化して広く公開するものです。
 
 ## ソースコード
 
-本書のソースコードは https://github.com/nttcom/onboarding-handbook で公開しています。
+本書のソースコードは https://github.com/nttcom/onboarding-handbook（後で変える） で公開しています。
 
 ## ライセンス
 
-NTT Communications Corporation 作『オンボーディング ハンドブック』は [クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/) で提供されています。
+NTT Communications Corporation 作『チームビルディング ハンドブック』は [クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/) で提供されています。
 
 ## 関連ハンドブック
 
