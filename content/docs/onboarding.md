@@ -26,7 +26,7 @@ NTT Comにおいて、本ハンドブックを作成している我々がチー�
 また、先行して実践しているあるプロダクトチームが、チームビルディング内容を社内SNSに発信してくれたことで、リアルな体験が経営層や現場メンバーの目に触れ、社内でもチームビルディングが浸透し、必要性も少しずつ理解されはじめています。
 
 
-![チームビルディングの概要図](/onboarding-handbook/onboarding_image.png) <-変更
+![チームビルディングの概要図](/teambuilding-handbook/Teambuild.png) <-変更
 
 {{< button relref="/docs/pre" >}}配属前に実施{{< /button >}}　<-変更
 
