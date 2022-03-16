@@ -1,6 +1,6 @@
 ---
 title: "チームビルディングとは"
-description: "チームビルディングについて説明します。"
+description: "チームビルディングについて説明します"
 weight: 5
 draft: false
 date: 2021-04-02T15:00:00+09:00
