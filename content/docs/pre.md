@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "test2"
 description: "オンボーディングにおいて新メンバーを受け入れる前にチームで実施することをまとめています。"
 weight: 10
 draft: false
