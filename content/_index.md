@@ -22,7 +22,7 @@ NTT Communications Corporation 作『チームビルディング ハンドブッ
 
 ## 関連ハンドブック
 
-リモートワークの働き方に特化したハンドブックとして、[リモートワークハンドブック](https://nttcom.github.io/remote-work-handbook/)やオンボーディングに関する情報をまとめた[オンボーディングハンドブック]（https://nttcom.github.io/onboarding-handbook/)も参照ください。
+リモートワークの働き方に特化したハンドブックとして、[リモートワークハンドブック](https://nttcom.github.io/remote-work-handbook/)やオンボーディングに関する情報をまとめた[オンボーディングハンドブック](https://nttcom.github.io/onboarding-handbook/)も参照ください。
 
 ## 読み始める
 
