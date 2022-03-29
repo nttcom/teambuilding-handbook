@@ -1,5 +1,5 @@
 ---
-title: "チームビルディング実施後の対応"
+title: "実施後の対応"
 description: "チームビルディングを実施した後の対応についてまとめています"
 weight: 50
 draft: false
