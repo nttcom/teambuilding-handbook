@@ -42,4 +42,4 @@ lastmod: 2021-04-02T15:30:00+09:00
 ![非協力的なケースと対応策の例](/teambuilding-handbook/counter-measures.jpg)
 
 
-{{< button relref="/docs/implementation.md" >}}チームビルディング実践中の対応{{< /button >}}
+{{< button relref="/docs/implementation.md" >}}チームビルディング実施中の対応{{< /button >}}
