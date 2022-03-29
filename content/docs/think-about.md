@@ -1,7 +1,7 @@
 ---
 title: "実践にあたって考えるべきこと"
 description: "実践にあたって考えるべきことを説明していきます"
-weight: 20
+weight: 10
 draft: false
 date: 2021-04-02T15:00:00+09:00
 lastmod: 2021-04-02T15:30:00+09:00
