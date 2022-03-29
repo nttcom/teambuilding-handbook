@@ -1,5 +1,5 @@
 ---
-title: "チームビルディング実施中の対応"
+title: "実施中の対応"
 description: "チームビルディング実施中の対応についてまとめています"
 weight: 30
 draft: false
