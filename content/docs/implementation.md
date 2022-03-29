@@ -1,7 +1,7 @@
 ---
 title: "実施中の対応"
 description: "チームビルディング実施中の対応についてまとめています"
-weight: 30
+weight: 40
 draft: false
 date: 2021-04-02T15:00:00+09:00
 lastmod: 2021-04-02T15:30:00+09:00
