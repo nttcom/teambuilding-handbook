@@ -27,9 +27,9 @@ lastmod: 2021-04-02T15:30:00+09:00
 
 
 ## Action
-- [チームビルディング実施前の対応](/docs/before-implementation.md)
-- チームビルディング実施中の対応
-- チームビルディング実施後の対応
+- [チームビルディング実施前の対応](http://iwashi.co/teambuilding-handbook/docs/before-implementation/)
+- [チームビルディング実施中の対応](http://iwashi.co/teambuilding-handbook/docs/implementation/)
+- [チームビルディング実施後の対応](http://iwashi.co/teambuilding-handbook/docs/after-implementation/)
 
 
 {{< button relref="/docs/mind4.md" >}}次ページ：押さえておきたい４か条{{< /button >}}
