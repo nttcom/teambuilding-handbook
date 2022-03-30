@@ -33,4 +33,4 @@ lastmod: 2021-04-02T15:30:00+09:00
         - スタンプなどのリアクション機能も積極的に活用しましょう
 
 
-{{< button relref="/docs/after-implementation.md" >}}チームビルディング実施後の対応{{< /button >}}
+{{< button relref="/docs/after-implementation.md" >}}次ページ：チームビルディング実施後の対応{{< /button >}}
