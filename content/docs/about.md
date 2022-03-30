@@ -43,4 +43,4 @@ lastmod: 2020-03-21T14:30:00+09:00
 - チームビルディングの実践にあたって考えるべきこと
 - チームビルディングの事例（ケース別） - Coming Soon -
 
-{{< button relref="/docs/teambuilding" >}}チームビルディングとは{{< /button >}}
+{{< button relref="/docs/teambuilding" >}}次ページ：チームビルディングとは{{< /button >}}
