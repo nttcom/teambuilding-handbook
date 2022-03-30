@@ -37,4 +37,4 @@ lastmod: 2021-04-02T15:30:00+09:00
     - 企画者が考えていた課題から逸れる場合もあります。自分たちが考えたレールを走らなくても、新しい発見があったと喜びましょう。
 
 
-{{< button relref="/docs/before-implementation.md" >}}チームビルディング実施前の対応{{< /button >}}
+{{< button relref="/docs/before-implementation.md" >}}次ページ：チームビルディング実施前の対応{{< /button >}}
