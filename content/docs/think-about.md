@@ -32,4 +32,4 @@ lastmod: 2021-04-02T15:30:00+09:00
 - チームビルディング実施後の対応
 
 
-{{< button relref="/docs/mind4.md" >}}押さえておきたい４か条{{< /button >}}
+{{< button relref="/docs/mind4.md" >}}次ページ：押さえておきたい４か条{{< /button >}}
