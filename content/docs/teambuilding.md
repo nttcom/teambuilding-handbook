@@ -29,5 +29,5 @@ NTT Comにおいて、本ハンドブックを作成している我々が感じ�
 
 ![チームビルディングの概要図](/teambuilding-handbook/Teambuild.png)
 
-{{< button relref="/docs/mind4.md" >}}チームビルディングの実践にあたって考えるべきこと{{< /button >}}
+{{< button relref="/docs/mind4.md" >}}＞＞チームビルディングの実践にあたって考えるべきこと{{< /button >}}
 
