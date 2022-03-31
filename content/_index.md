@@ -22,6 +22,6 @@ NTT Communications Corporation 作『チームビルディング ハンドブッ
 
 ## 読み始める
 
-こちらから本編に進めます。
+以下のボタンから本編に進めます。
 
 {{< button relref="/docs/about.md" >}}次ページ：はじめに{{< /button >}}
