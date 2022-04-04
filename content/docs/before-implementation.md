@@ -23,7 +23,7 @@ lastmod: 2021-04-02T15:30:00+09:00
 なお、チームビルディングは一朝一夕で目指すチームの姿に到達できる取り組みではなく、継続することが必要です。回数を重ねる毎に小さな目標を設定し、ふりかえりを実施することで、目指す姿に近づいているかどうか計測すると良いでしょう。（図表２参照）
 
 
-![目指したいチームの姿](/teambuilding-handbook/teambuilding-goal.png)
+![目指したいチームの姿](/teambuilding-handbook/team-goals.png)
 
 
 ### 周囲に協力を促す	
@@ -44,7 +44,7 @@ lastmod: 2021-04-02T15:30:00+09:00
 
 ### 非協力的なケースと対応策の例
 
-![非協力的なケースと対応策の例](/teambuilding-handbook/counter-measures.jpg)
+![非協力的なケースと対応策の例](/teambuilding-handbook/case-correspondence.png)
 
 
 {{< button relref="/docs/implementation.md" >}}次ページ：チームビルディング実施中の対応{{< /button >}}
