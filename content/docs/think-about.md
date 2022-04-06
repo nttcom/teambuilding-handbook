@@ -19,7 +19,7 @@ lastmod: 2021-04-02T15:30:00+09:00
 
 ## Mind
 
-[これだけは押さえておきたい４か条](http://iwashi.co/teambuilding-handbook/docs/mind4/)
+[これだけは押さえておきたい４か条](https://nttcom.github.io/teambuilding-handbook/docs/mind4/)
 - 気負いすぎない
 - ファシリテーターとして、個々の発言量のバランスに気を配る
 - 参加者全員に主体性を持たせる
@@ -27,9 +27,9 @@ lastmod: 2021-04-02T15:30:00+09:00
 
 
 ## Action
-- [チームビルディング実施前の対応](http://iwashi.co/teambuilding-handbook/docs/before-implementation/)
-- [チームビルディング実施中の対応](http://iwashi.co/teambuilding-handbook/docs/implementation/)
-- [チームビルディング実施後の対応](http://iwashi.co/teambuilding-handbook/docs/after-implementation/)
+- [チームビルディング実施前の対応](https://nttcom.github.io/teambuilding-handbook/docs/before-implementation/)
+- [チームビルディング実施中の対応](https://nttcom.github.io/teambuilding-handbook/docs/implementation/)
+- [チームビルディング実施後の対応](https://nttcom.github.io/teambuilding-handbook/docs/after-implementation/)
 
 
 {{< button relref="/docs/mind4.md" >}}次ページ：押さえておきたい４か条{{< /button >}}
