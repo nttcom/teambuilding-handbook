@@ -67,7 +67,7 @@ theme = "book"
   title = "NTT Com Teambuilding Handbook"
   # og:image is defined at head.html
   # images = ["logo.jpg"]
-  description = "NTT コミュニケーションズがまとめた、チームビルディングのハンドブックです。"
+  description = "NTT コミュニケーションズがまとめた、チームビルディングの参考書です。"
 
   # Google Tag Manager
   google_tag_manager = "GTM-PX2HXS"
