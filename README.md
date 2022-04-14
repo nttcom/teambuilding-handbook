@@ -19,4 +19,4 @@ NTT コミュニケーションズ株式会社の有志で整備した、オン�
 なお issue は随時受け付けています。誤字の指摘や新たなセクションの案などあればお寄せください。
 
 ## Author
-© NTT Communications Corporation 2021
+© NTT Communications Corporation 2022
