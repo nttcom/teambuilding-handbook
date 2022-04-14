@@ -30,7 +30,7 @@ theme = "book"
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/nttcom/onboarding-handbook'
+  BookRepo = 'https://github.com/nttcom/teambuilding-handbook'
 
   # Enable 'Edit this page' links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
@@ -64,10 +64,10 @@ theme = "book"
   # BookServiceWorker = true
 
   # for Open Graph
-  title = "NTT Com Onboarding Handbook"
+  title = "NTT Com Teambuilding Handbook"
   # og:image is defined at head.html
   # images = ["logo.jpg"]
-  description = "NTT コミュニケーションズがまとめた、オンボーディングのハンドブックです。"
+  description = "NTT コミュニケーションズがまとめた、チームビルディングのハンドブックです。"
 
   # Google Tag Manager
   google_tag_manager = "GTM-PX2HXS"
