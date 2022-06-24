@@ -1,7 +1,7 @@
 ---
 title: "事例2. mixin（ミキシン）"
 description: "mixin（ミキシン）の事例について紹介します。"
-weight: 30
+weight: 190
 draft: false
 date: 2021-04-02T15:00:00+09:00
 lastmod: 2021-04-02T15:30:00+09:00
