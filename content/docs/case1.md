@@ -1,7 +1,7 @@
 ---
 title: "事例1. 取扱説明書"
 description: "取扱説明書の事例について紹介します。"
-weight: 30
+weight: 180
 draft: false
 date: 2021-04-02T15:00:00+09:00
 lastmod: 2021-04-02T15:30:00+09:00
