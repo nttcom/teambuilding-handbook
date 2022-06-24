@@ -1,5 +1,5 @@
 ---
-title: "事例3"
+title: "事例3.キャリアアンカー診断"
 description: "【事例３：キャリアアンカー診断を用いたチームビルディングを紹介いたします】"
 weight: 200
 draft: false
